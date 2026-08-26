@@ -1,0 +1,5 @@
+.venv/
+.DS_Store
+/upstream/cell/
+evidence/test-results/*.log
+evidence/test-results/*.tmp
