@@ -55,7 +55,7 @@ The bounty also accepts useful real-hardware failures. Keep the raw data if a fa
 | Wallet hardware | $35.30 |
 | Total | **$128.55** |
 
-This total excludes shipping, tax, tools, sample collection, replacement parts, failed prints, and Mainnet gas. Reserve another 25–35% for hardware problems and keep gas funds separate.
+This total excludes shipping, tax, tools, sample collection, replacement parts, failed prints, and Mainnet gas. Current Indonesian prices are substantially higher. Check the [Indonesian procurement and price guide](./PROCUREMENT.md) before purchasing.
 
 ## Non-negotiable safety rules
 
@@ -68,4 +68,4 @@ This total excludes shipping, tax, tools, sample collection, replacement parts, 
 - Never commit or publish a PIN, mnemonic, private key, or secret-bearing screen.
 - Test the ATECC608B thoroughly before any irreversible lock command.
 
-Next documents: [execution plan](./PLAN.md), [working checklist](./CHECKLIST.md), and [software test record](./SOFTWARE_BASELINE.md).
+Next documents: [execution plan](./PLAN.md), [working checklist](./CHECKLIST.md), [Indonesian procurement](./PROCUREMENT.md), and [software test record](./SOFTWARE_BASELINE.md).

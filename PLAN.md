@@ -24,10 +24,10 @@ Build enough of CELL to submit a defensible claim without committing the full bu
 |---|---:|---:|---|
 | 0. Fix the reference version | 0.5 day | $0 | Recoverable source and requirements |
 | 1. Test the software | 1 day | $0 | No unexplained software failures |
-| 2. Buy reader parts | 3–14 days | About $93.25 | Correct parts received |
+| 2. Buy reader parts | 3–14 days | IDR 2.29–3.77 million | Reader parts and consumables received |
 | 3. Build the reader | 2–4 days | — | Milestones 1–6 complete |
 | 4. Run the spoof panel | 1–3+ weeks | Depends on samples | Milestone 7 evidence |
-| 5. Build the wallet | 2–4 days | About $35.30 | Milestones 8–12 complete |
+| 5. Build the wallet | 2–4 days | IDR 0.89–2.16 million more | Milestones 8–12 complete |
 | 6. Publish and claim | 1–2 days | Mainnet gas | Claim recorded on POIDH |
 | 7. Vote and payment | At least 2 days | Mainnet gas | Reward withdrawn if the claim wins |
 
@@ -80,6 +80,8 @@ Required tools or services:
 - Qualified medical help for any sample that requires venous collection.
 
 Record the supplier, part number, quantity, price, shipping, tax, and every substitution in `COSTS.csv`. Photograph board markings and labels on arrival. Do not silently substitute the sensor layout, camera type, display interface, secure element, laser, tape thickness, or print material.
+
+Use [PROCUREMENT.md](./PROCUREMENT.md) for Indonesian prices, example sources, and the do-not-buy list.
 
 ## 3. Build the reader: milestones 1–6
 

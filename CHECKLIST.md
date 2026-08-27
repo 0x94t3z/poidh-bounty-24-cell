@@ -45,6 +45,8 @@ For every completed item, add the date, evidence path, transaction hash, or a sh
 
 ## Reader procurement
 
+Prices, sources, and pre-purchase checks: [PROCUREMENT.md](./PROCUREMENT.md).
+
 - [ ] Raspberry Pi Zero 2 W.
 - [ ] AS7341 breakout with LDR pin available.
 - [ ] OV5647-type Pi camera.
@@ -134,6 +136,8 @@ For every completed item, add the date, evidence path, transaction hash, or a sh
 - [ ] Record the decision on wallet spending.
 
 ## Wallet procurement
+
+Do not buy this stage before milestone 7. Check the import risks in [PROCUREMENT.md](./PROCUREMENT.md).
 
 - [ ] ATECC608B breakout; confirm the exact chip model.
 - [ ] ST7789 240 × 240 display with CS pin.

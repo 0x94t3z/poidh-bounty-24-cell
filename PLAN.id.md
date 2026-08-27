@@ -24,10 +24,10 @@ Bangun CELL secara bertahap agar biaya penuh tidak dikeluarkan sebelum reader me
 |---|---:|---:|---|
 | 0. Tetapkan versi acuan | 0,5 hari | $0 | Sumber dan syarat dapat dipulihkan |
 | 1. Uji software | 1 hari | $0 | Tidak ada kegagalan software yang belum dijelaskan |
-| 2. Beli komponen reader | 3–14 hari | Sekitar $93,25 | Komponen yang benar telah diterima |
+| 2. Beli komponen reader | 3–14 hari | Rp2,29–3,77 juta | Komponen dan bahan habis pakai reader telah diterima |
 | 3. Rakit reader | 2–4 hari | — | Milestone 1–6 selesai |
 | 4. Jalankan spoof panel | 1–3+ minggu | Bergantung pada sampel | Bukti milestone 7 |
-| 5. Rakit wallet | 2–4 hari | Sekitar $35,30 | Milestone 8–12 selesai |
+| 5. Rakit wallet | 2–4 hari | Tambahan Rp0,89–2,16 juta | Milestone 8–12 selesai |
 | 6. Publikasi dan klaim | 1–2 hari | Gas Mainnet | Klaim tercatat di POIDH |
 | 7. Voting dan pembayaran | Minimal 2 hari | Gas Mainnet | Imbalan ditarik jika klaim menang |
 
@@ -80,6 +80,8 @@ Alat atau jasa yang harus tersedia:
 - Bantuan tenaga medis yang kompeten jika ada sampel yang harus diambil dari vena.
 
 Catat penjual, nomor komponen, jumlah, harga, ongkir, pajak, dan setiap penggantian komponen dalam `COSTS.csv`. Foto label dan tulisan pada papan elektronik ketika barang tiba. Jangan mengganti tata letak sensor, jenis kamera, antarmuka display, secure element, laser, ketebalan perekat, atau bahan cetak tanpa catatan teknis.
+
+Gunakan [PROCUREMENT.id.md](./PROCUREMENT.id.md) untuk harga Indonesia, contoh sumber, dan daftar barang yang tidak boleh dibeli.
 
 ## 3. Rakit reader: milestone 1–6
 

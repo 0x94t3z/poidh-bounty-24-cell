@@ -45,6 +45,8 @@ Untuk setiap pekerjaan yang selesai, tambahkan tanggal, lokasi bukti, hash trans
 
 ## Pengadaan reader
 
+Harga, sumber, dan pemeriksaan sebelum membeli: [PROCUREMENT.id.md](./PROCUREMENT.id.md).
+
 - [ ] Raspberry Pi Zero 2 W.
 - [ ] Breakout AS7341 dengan pin LDR yang dapat diakses.
 - [ ] Kamera Pi tipe OV5647.
@@ -134,6 +136,8 @@ Untuk setiap pekerjaan yang selesai, tambahkan tanggal, lokasi bukti, hash trans
 - [ ] Keputusan mengenai pengeluaran untuk wallet dicatat.
 
 ## Pengadaan wallet
+
+Jangan membeli tahap ini sebelum milestone 7. Periksa risiko impor di [PROCUREMENT.id.md](./PROCUREMENT.id.md).
 
 - [ ] Breakout ATECC608B; pastikan jenis chip yang tepat.
 - [ ] Display ST7789 240 × 240 dengan pin CS.

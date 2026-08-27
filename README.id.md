@@ -78,7 +78,7 @@ Kegagalan pada perangkat keras nyata juga dapat diajukan jika hasilnya berguna d
 | Perangkat keras wallet | $35,30 |
 | Total | **$128,55** |
 
-Angka tersebut belum mencakup ongkir, pajak, alat kerja, pengambilan sampel, komponen pengganti, kegagalan cetak, dan gas Mainnet. Siapkan tambahan 25–35% untuk kendala perangkat keras serta dana gas secara terpisah.
+Angka tersebut belum mencakup ongkir, pajak, alat kerja, pengambilan sampel, komponen pengganti, kegagalan cetak, dan gas Mainnet. Harga hasil pemeriksaan di Indonesia jauh lebih tinggi. Lihat [daftar pengadaan dan harga Indonesia](./PROCUREMENT.id.md) sebelum membeli.
 
 ## Aturan keselamatan yang wajib dipatuhi
 
@@ -91,4 +91,4 @@ Angka tersebut belum mencakup ongkir, pajak, alat kerja, pengambilan sampel, kom
 - Jangan simpan atau publikasikan PIN, frasa pemulihan, private key, maupun layar yang memuat rahasia.
 - Uji ATECC608B secara menyeluruh sebelum menjalankan perintah penguncian yang tidak dapat dibatalkan.
 
-Dokumen berikutnya: [rencana pelaksanaan](./PLAN.id.md), [daftar kerja](./CHECKLIST.id.md), dan [catatan pengujian software](./SOFTWARE_BASELINE.id.md).
+Dokumen berikutnya: [rencana pelaksanaan](./PLAN.id.md), [daftar kerja](./CHECKLIST.id.md), [pengadaan Indonesia](./PROCUREMENT.id.md), dan [catatan pengujian software](./SOFTWARE_BASELINE.id.md).
