@@ -4,6 +4,29 @@
 
 Direktori ini berisi rencana, daftar kerja, dan catatan pengujian untuk mengikuti [POIDH Mainnet bounty #24](https://poidh.xyz/mainnet/bounty/24). Tugasnya adalah merakit CELL dan membuktikan bahwa perangkat tersebut dapat mengotorisasi tanda tangan menggunakan denyut nadi maupun darah segar.
 
+## Cara kerja CELL
+
+<img src="./assets/diagrams/id/how-it-works.svg" alt="Diagram cara kerja hardware wallet CELL" width="100%">
+
+<details>
+<summary>Diagram perakitan, mekanis, dan pengkabelan</summary>
+
+### Lembar perakitan
+
+<img src="./assets/diagrams/id/build-sheet.svg" alt="Lembar perakitan CELL dalam bahasa Indonesia" width="100%">
+
+### Gambar mekanis
+
+<img src="./assets/diagrams/id/mechanical.svg" alt="Gambar mekanis CELL dalam bahasa Indonesia" width="100%">
+
+### Pengkabelan reader
+
+<img src="./assets/diagrams/id/wiring.svg" alt="Diagram pengkabelan reader CELL dalam bahasa Indonesia" width="100%">
+
+</details>
+
+Diagram di atas merupakan terjemahan bahasa Indonesia dari desain [`z0r0z/cell`](https://github.com/z0r0z/cell) pada commit `9ae536c92186ba7d0d8e0f1a12ccf68c7f27446e`. Sumber aslinya menggunakan lisensi CC0 1.0.
+
 ## Dokumen acuan
 
 - [Syarat bounty](https://github.com/z0r0z/cell/blob/main/BOUNTY.md)

@@ -1,0 +1,146 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 880" width="1000" height="880" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+<!-- Indonesian translation of z0r0z/cell@9ae536c92186ba7d0d8e0f1a12ccf68c7f27446e; source licensed CC0 1.0. -->
+  <defs>
+    <marker id="d1" markerWidth="8" markerHeight="8" refX="7" refY="2.6" orient="auto"><path d="M0,0 L7,2.6 L0,5.2 z" fill="#8A8B8F"/></marker>
+    <marker id="d2" markerWidth="8" markerHeight="8" refX="1" refY="2.6" orient="auto"><path d="M7,0 L0,2.6 L7,5.2 z" fill="#8A8B8F"/></marker>
+    <marker id="ry" markerWidth="9" markerHeight="9" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 z" fill="#C9A227"/></marker>
+    <marker id="rb" markerWidth="9" markerHeight="9" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 z" fill="#6F9FC9"/></marker>
+    <pattern id="hx" width="6" height="6" patternTransform="rotate(45)" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="0" y2="6" stroke="#3A3A38" stroke-width="1.4"/></pattern>
+  </defs>
+  <rect width="1000" height="880" fill="#0C0C0B"/>
+
+  <text x="48" y="52" font-size="22" font-weight="200" letter-spacing="9" fill="#D8D2C8">CELL — LEMBAR PERAKITAN</text>
+  <rect x="49" y="63" width="26" height="2" fill="#8E1A26"/>
+  <text x="952" y="52" text-anchor="end" font-size="10.5" letter-spacing="2.4" fill="#6F7178">~US$94 · mm</text>
+
+  <!-- ===== OPTICAL HEAD ===== -->
+  <text x="48" y="104" font-size="10.5" letter-spacing="3" fill="#6F7178">KEPALA OPTIK — KIMIA (45°/0°) + DETEKSI HIDUP (SPECKLE)</text>
+
+  <path d="M120,124 L560,124 L560,290 L452,290 L452,254 L228,254 L228,290 L120,290 Z" fill="url(#hx)" stroke="#4A4A46" stroke-width="1.6"/>
+  <rect x="228" y="254" width="224" height="36" fill="#0C0C0B"/>
+
+  <rect x="312" y="136" width="56" height="22" rx="2" fill="#D8D2C8"/>
+  <text x="340" y="152" font-size="10" font-weight="600" text-anchor="middle" fill="#0C0C0B">AS7341</text>
+
+  <path d="M328,158 L328,214 L316,214 L316,158 Z" fill="#2A2926" stroke="#4A4A46"/>
+  <path d="M352,158 L352,214 L364,214 L364,158 Z" fill="#2A2926" stroke="#4A4A46"/>
+  <path d="M276,228 L291,228 L314,200" stroke="#8A8B8F" stroke-width="0.7" fill="none"/>
+  <circle cx="314" cy="198" r="1.6" fill="#8A8B8F"/>
+  <text x="176" y="232" font-size="9.5" fill="#8A8B8F">bukaan Ø3.0 × 6.0</text>
+  <text x="176" y="245" font-size="9.5" fill="#8A8B8F">hitam doff</text>
+
+  <line x1="340" y1="254" x2="340" y2="162" stroke="#6F9FC9" stroke-width="2" marker-end="url(#rb)"/>
+  <text x="352" y="206" font-size="10" font-weight="600" fill="#6F9FC9">pengamatan 0°</text>
+
+  <rect x="216" y="182" width="40" height="18" rx="2" fill="#C9A227" transform="rotate(45 236 191)"/>
+  <text x="140" y="180" font-size="10" font-weight="600" fill="#C9A227">LED #1 putih</text>
+  <text x="140" y="193" font-size="9.5" fill="#8A7A3A">+ IR940 satu posisi</text>
+  <line x1="250" y1="206" x2="332" y2="250" stroke="#C9A227" stroke-width="2" marker-end="url(#ry)"/>
+
+  <rect x="424" y="182" width="40" height="18" rx="2" fill="#C9A227" transform="rotate(-45 444 191)"/>
+  <rect x="196" y="140" width="34" height="14" rx="2" fill="#B23A48" transform="rotate(30 213 147)"/>
+  <text x="132" y="140" font-size="10" font-weight="600" fill="#B23A48">laser 650 nm</text>
+  <line x1="228" y1="158" x2="322" y2="252" stroke="#B23A48" stroke-width="1.8" stroke-dasharray="5 3"/>
+  <rect x="398" y="136" width="40" height="16" rx="2" fill="#4A4E57"/>
+  <text x="452" y="138" font-size="10" font-weight="600" fill="#9FA3A8">kamera, tanpa lensa</text>
+  <line x1="418" y1="152" x2="356" y2="252" stroke="#9FA3A8" stroke-width="1.4" stroke-dasharray="4 3"/>
+  <text x="466" y="158" font-size="10" font-weight="600" fill="#C9A227">LED #2 putih</text>
+  <line x1="430" y1="206" x2="348" y2="250" stroke="#C9A227" stroke-width="2" marker-end="url(#ry)"/>
+
+  <path d="M340,232 A28,28 0 0,0 320,212" fill="none" stroke="#C9A227" stroke-width="1.2"/>
+  <text x="298" y="230" font-size="10" font-weight="600" fill="#C9A227">45°</text>
+  <path d="M340,232 A28,28 0 0,1 360,212" fill="none" stroke="#C9A227" stroke-width="1.2"/>
+  <text x="368" y="230" font-size="10" font-weight="600" fill="#C9A227">45°</text>
+
+  <line x1="430" y1="206" x2="348" y2="250" stroke="none"/>
+  <line x1="348" y1="250" x2="430" y2="206" stroke="#3A3A38" stroke-width="1.4" stroke-dasharray="5 4"/>
+  <text x="462" y="238" font-size="9.5" fill="#5A5A56">pantulan spekular keluar 45°</text>
+
+  <rect x="228" y="254" width="224" height="6" fill="#2E3A42" stroke="#4E6270"/>
+  <text x="220" y="259" font-size="9.5" text-anchor="end" fill="#4E6270">PET 0.10</text>
+  <rect x="228" y="260" width="224" height="30" fill="#E8E4DE" stroke="#8A8B8F"/>
+  <path d="M310,260 L310,276 L370,276 L370,260" fill="#6E1420" stroke="#4A0E14"/>
+  <text x="340" y="272" font-size="9" font-weight="700" text-anchor="middle" fill="#E8E4DE">DARAH</text>
+  <rect x="248" y="256" width="26" height="5" fill="#fff" stroke="#8A8B8F"/>
+  <path d="M268,296 L268,268" stroke="#8A8B8F" stroke-width="0.7" fill="none"/><circle cx="268" cy="266" r="1.6" fill="#8A8B8F"/><text x="248" y="303" font-size="9" text-anchor="middle" fill="#8A8B8F">acuan putih</text>
+  <text x="466" y="284" font-size="10" fill="#8A8B8F">cartridge, PETG putih</text>
+
+  <line x1="288" y1="158" x2="288" y2="254" stroke="#8A8B8F" stroke-width="1" marker-start="url(#d2)" marker-end="url(#d1)"/>
+  <text x="276" y="196" font-size="10.5" font-weight="600" text-anchor="end" fill="#D8D2C8">9.0</text>
+  <line x1="236" y1="322" x2="340" y2="322" stroke="#8A8B8F" stroke-width="1" marker-start="url(#d2)" marker-end="url(#d1)"/>
+  <text x="288" y="316" font-size="10.5" font-weight="600" text-anchor="middle" fill="#D8D2C8">12.0</text>
+
+  <rect x="592" y="118" width="360" height="330" rx="5" fill="#101010" stroke="#2A2926"/>
+  <text x="610" y="142" font-size="11.5" fill="#D8D2C8">Alasan geometri ini</text>
+  <text x="610" y="166" font-size="10.5" fill="#8A8B8F">Darah basah mengilap. Cahaya tegak lurus akan membanjiri</text>
+  <text x="610" y="182" font-size="10.5" fill="#8A8B8F">sensor dengan pantulan permukaan yang tidak membawa informasi</text>
+  <text x="610" y="198" font-size="10.5" fill="#8A8B8F">kimia. Pada 45°, pantulan spekular keluar 45° dan melewati sensor.</text>
+  <text x="610" y="222" font-size="10.5" fill="#8A8B8F">Dua LED berlawanan mengurangi bayangan akibat bentuk tetesan.</text>
+  <text x="610" y="246" font-size="10.5" fill="#C9707A">Sumur bersifat semi-tak-hingga secara optik (kedalaman ≥0.4):</text>
+  <text x="610" y="262" font-size="10.5" fill="#C9707A">pantulan tidak bergantung pada volume isi atau alas. Karena itu</text>
+  <text x="610" y="278" font-size="10.5" fill="#C9707A">8–15 µL dapat digunakan dan kekasaran FDM tidak berpengaruh.</text>
+  <text x="610" y="300" font-size="10.5" fill="#D8D2C8">Jangan "memperbaiki" desain dengan menipiskan sumur.</text>
+  <line x1="610" y1="312" x2="940" y2="312" stroke="#2A2926"/>
+  <text x="610" y="330" font-size="11.5" fill="#C9707A">Jalur kedua: speckle</text>
+  <text x="610" y="350" font-size="10.5" fill="#8A8B8F">Laser 650 nm pada ~30°, kamera berjarak ~20 mm dengan</text>
+  <text x="610" y="366" font-size="10.5" fill="#8A8B8F"><tspan fill="#D8D2C8">lensa dilepas</tspan>, di luar sumbu spekular. Exposure,</text>
+  <text x="610" y="382" font-size="10.5" fill="#8A8B8F">gain, dan AWB harus tetap; penyesuaian otomatis merusak</text>
+  <text x="610" y="398" font-size="10.5" fill="#8A8B8F">pengukuran korelasi.</text>
+  <text x="610" y="418" font-size="10.5" fill="#C9707A">Kedua jalur tidak berjalan bersamaan: laser mengganggu</text>
+  <text x="610" y="434" font-size="10.5" fill="#C9707A">kanal 630 nm, sedangkan LED menghilangkan speckle.</text>
+
+  <!-- ===== CARTRIDGE ===== -->
+  <text x="48" y="486.0" font-size="10.5" letter-spacing="3" fill="#6F7178">CARTRIDGE — 45 × 14 × 2.4, PETG PUTIH, LAYER 0.15, IRONING AKTIF  ·  REKAM 600 s</text>
+
+  <g transform="translate(48 502.0) scale(5.0)">
+    <rect x="0" y="0" width="32" height="14" rx="0.8" fill="#151513" stroke="#4A4A46" stroke-width="0.14"/>
+    <circle cx="8" cy="7" r="3.5" fill="none" stroke="#4A4A46" stroke-width="0.12"/>
+    <circle cx="8" cy="7" r="2" fill="#6E1420"/>
+    <rect x="14" y="2" width="4" height="4" fill="#E8E4DE" stroke="#8A8B8F" stroke-width="0.1"/>
+    <rect x="24" y="0" width="8" height="14" fill="#0F0F0E" stroke="#4A4A46" stroke-width="0.12"/>
+  </g>
+  <text x="48" y="594.0" font-size="10" fill="#8A8B8F">sumur Ø4.0 × kedalaman 0.55  ·  parit Ø7.0  ·  ≈7 µL</text>
+  <text x="48" y="609.0" font-size="10" fill="#8A8B8F">acuan putih ikut dicetak · gelap = LED mati</text>
+  <text x="48" y="624.0" font-size="10" fill="#8A8B8F">penutup film PET, sisi berperekat = engsel</text>
+
+  <rect x="270" y="504.0" width="322" height="130" rx="5" fill="#101010" stroke="#2A2926"/>
+  <text x="288" y="528.0" font-size="11.5" fill="#D8D2C8">Acuan pada setiap cartridge</text>
+  <text x="288" y="552.0" font-size="10.5" fill="#8A8B8F">Penuaan LED, pergeseran sensor, dan variasi cetak</text>
+  <text x="288" y="568.0" font-size="10.5" fill="#8A8B8F">berpengaruh langsung. Tanpa koreksi, ketiganya membuat</text>
+  <text x="288" y="584.0" font-size="10.5" fill="#8A8B8F">nilai ambang keluar spesifikasi dalam hitungan minggu.</text>
+  <text x="288" y="604.0" font-size="10.5" fill="#8A8B8F">Normalisasi terhadap bidang yang dicetak pada layer</text>
+  <text x="288" y="620.0" font-size="10.5" fill="#8A8B8F">dan filamen yang sama menghilangkan hampir seluruh efeknya.</text>
+
+  <rect x="612" y="504.0" width="340" height="130" rx="5" fill="#141010" stroke="#4A1219"/>
+  <text x="630" y="528.0" font-size="11.5" fill="#C9707A">Keselamatan biologis</text>
+  <text x="630" y="552.0" font-size="10.5" fill="#8A8B8F">Satu cartridge untuk sekali pakai, lalu buang ke <tspan fill="#D8D2C8">wadah benda tajam</tspan>.</text>
+  <text x="630" y="570.0" font-size="10.5" fill="#8A8B8F">Gunakan hanya lancet komersial steril sekali pakai. Jangan</text>
+  <text x="630" y="586.0" font-size="10.5" fill="#8A8B8F">gunakan ulang atau menggantinya dengan pisau maupun jarum.</text>
+  <text x="630" y="608.0" font-size="10.5" fill="#D8D2C8">Satu perangkat untuk satu orang. Jangan berbagi.</text>
+  <text x="630" y="624.0" font-size="10.5" fill="#8A8B8F">HBV bertahan pada permukaan kering hingga 7 hari.</text>
+
+  <!-- ===== WIRING ===== -->
+  <text x="48" y="678.0" font-size="10.5" letter-spacing="3" fill="#6F7178">PENGKABELAN — NOMOR BCM, I²C1 @ 400 kHz</text>
+
+  <g font-size="10.5">
+    <rect x="48" y="694.0" width="440" height="158" rx="5" fill="#101010" stroke="#2A2926"/>
+    <text x="66" y="718.0" fill="#6F9FC9" font-weight="600">GPIO2 / 3</text><text x="180" y="718.0" fill="#8A8B8F">AS7341 0x39 · ATECC608B 0x60</text>
+    <text x="66" y="738.0" fill="#D8D2C8" font-weight="600">GPIO5 / 13 / 19</text><text x="180" y="738.0" fill="#8A8B8F">ATAS · BAWAH · KEMBALI</text>
+    <text x="66" y="758.0" fill="#C9707A" font-weight="600">GPIO26</text><text x="180" y="758.0" fill="#C9707A">KONFIRMASI — pin sendiri, debounce RC, tanpa bus bersama</text>
+    <text x="66" y="778.0" fill="#6F9FC9" font-weight="600">GPIO8–11</text><text x="180" y="778.0" fill="#8A8B8F">SPI0 → display ST7789</text>
+    <text x="66" y="798.0" fill="#D8D2C8" font-weight="600">GPIO25/27/24</text><text x="180" y="798.0" fill="#8A8B8F">D/C display · RESET · lampu latar</text>
+    <text x="66" y="818.0" fill="#C9A227" font-weight="600">GPIO12 / 23</text><text x="180" y="818.0" fill="#8A8B8F">LED putih #2 · IR940 (2N7002, 68R / 47R)</text>
+    <text x="66" y="838.0" fill="#B23A48" font-weight="600">GPIO6</text><text x="180" y="838.0" fill="#B23A48">laser 650 nm — interlock ke sakelar cartridge</text>
+    <text x="66" y="858.0" fill="#D8D2C8" font-weight="600">GPIO22 · CSI</text><text x="180" y="858.0" fill="#8A8B8F">sakelar cartridge · kamera speckle</text>
+  </g>
+
+  <rect x="512" y="694.0" width="440" height="158" rx="5" fill="#141010" stroke="#4A1219"/>
+  <text x="530" y="718.0" font-size="11.5" fill="#C9707A">Dua sumber masalah utama</text>
+  <text x="530" y="744.0" font-size="10.5" fill="#8A8B8F"><tspan fill="#D8D2C8">1.</tspan> Kedua breakout I²C memiliki pull-up. Lepas salah satu pasang</text>
+  <text x="530" y="760.0" font-size="10.5" fill="#8A8B8F">2.2 kΩ agar bus dapat terdeteksi. Ini penyebab kegagalan</text>
+  <text x="530" y="776.0" font-size="10.5" fill="#8A8B8F">paling umum pada perakitan pertama.</text>
+  <text x="530" y="802.0" font-size="10.5" fill="#8A8B8F"><tspan fill="#D8D2C8">2.</tspan> Nonaktifkan radio di config.txt <tspan fill="#D8D2C8">dan potong jalur</tspan></text>
+  <text x="530" y="818.0" font-size="10.5" fill="#8A8B8F"><tspan fill="#D8D2C8">umpan antena.</tspan> Penonaktifan melalui firmware dapat dibatalkan oleh siapa pun</text>
+  <text x="530" y="834.0" font-size="10.5" fill="#8A8B8F">yang mengakses kartu SD. Pastikan <tspan font-family="monospace" fill="#D8D2C8">iw dev</tspan> tidak menghasilkan keluaran.</text>
+</svg>

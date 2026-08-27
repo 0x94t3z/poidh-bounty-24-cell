@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 860" width="1000" height="860" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+<!-- Indonesian translation of z0r0z/cell@9ae536c92186ba7d0d8e0f1a12ccf68c7f27446e; source licensed CC0 1.0. -->
+  <defs>
+    <marker id="a" markerWidth="9" markerHeight="9" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 z" fill="#8A8B8F"/></marker>
+    <marker id="ar" markerWidth="9" markerHeight="9" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 z" fill="#B23A48"/></marker>
+  </defs>
+  <rect width="1000" height="860" fill="#0C0C0B"/>
+
+  <text x="48" y="58" font-size="26" font-weight="200" letter-spacing="11" fill="#D8D2C8">CELL</text>
+  <rect x="49" y="70" width="30" height="2" fill="#B23A48"/>
+  <text x="48" y="96" font-size="13" fill="#D8D2C8">Hardware wallet yang membaca denyut nadi. Atau darah.</text>
+  <text x="48" y="116" font-size="11.5" fill="#8A8B8F" font-style="italic">Denyut untuk harian. Darah untuk hal penting.</text>
+
+  <!-- TIERS -->
+  <text x="48" y="162" font-size="10.5" letter-spacing="3" fill="#6F7178">DUA TINGKAT</text>
+  <rect x="48" y="178" width="440" height="150" rx="5" fill="#101010" stroke="#2A2926"/>
+  <text x="66" y="204" font-size="13" fill="#D8D2C8">SENTUH</text>
+  <text x="66" y="228" font-size="11" fill="#8A8B8F">Ujung jari pada cincin. <tspan fill="#D8D2C8">15 detik.</tspan> Tanpa bahan habis pakai.</text>
+  <text x="66" y="250" font-size="11" fill="#8A8B8F">Cahaya masuk dan kembali. Denyut terlihat sebagai</text>
+  <text x="66" y="266" font-size="11" fill="#8A8B8F">kedipan pada cahaya yang dipantulkan.</text>
+  <text x="66" y="292" font-size="11" fill="#8A8B8F">Ada orang <tspan fill="#D8D2C8">hidup</tspan> di sini.</text>
+  <text x="66" y="314" font-size="10.5" fill="#6F7178">Pilihan untuk penggunaan harian.</text>
+
+  <rect x="512" y="178" width="440" height="150" rx="5" fill="#141010" stroke="#4A1219"/>
+  <text x="530" y="204" font-size="13" fill="#C9707A">DARAH</text>
+  <text x="530" y="228" font-size="11" fill="#8A8B8F">Setetes darah dalam cartridge. <tspan fill="#D8D2C8">10 menit.</tspan></text>
+  <text x="530" y="250" font-size="11" fill="#8A8B8F">Laser mengamati sampel sampai gerakannya berhenti.</text>
+  <text x="530" y="272" font-size="11" fill="#8A8B8F">Seseorang <tspan fill="#D8D2C8">berdarah</tspan> di sini beberapa menit lalu.</text>
+  <text x="530" y="298" font-size="10.5" fill="#8A8B8F">Anda memilihnya. Kebijakan dapat mewajibkannya.</text>
+  <text x="530" y="314" font-size="10.5" fill="#8A8B8F">Tidak dapat diturunkan melalui perintah.</text>
+
+  <!-- FLOW -->
+  <text x="48" y="372" font-size="10.5" letter-spacing="3" fill="#6F7178">ALUR KERJA</text>
+  <g font-size="11.5">
+    <rect x="48" y="388" width="150" height="56" rx="4" fill="#151513" stroke="#2A2926"/>
+    <text x="62" y="412" fill="#D8D2C8">Tx belum ditandatangani</text>
+    <text x="62" y="430" fill="#6F7178" font-size="10.5">ditampilkan sebagai QR</text>
+    <path d="M204,416 L236,416" stroke="#8A8B8F" stroke-width="1.4" marker-end="url(#a)"/>
+
+    <rect x="242" y="388" width="150" height="56" rx="4" fill="#151513" stroke="#2A2926"/>
+    <text x="256" y="412" fill="#D8D2C8">Perangkat membacanya</text>
+    <text x="256" y="430" fill="#6F7178" font-size="10.5">kamera · tanpa radio</text>
+    <path d="M398,416 L430,416" stroke="#8A8B8F" stroke-width="1.4" marker-end="url(#a)"/>
+
+    <rect x="436" y="388" width="150" height="56" rx="4" fill="#151513" stroke="#2A2926"/>
+    <text x="450" y="412" fill="#D8D2C8">Anda memeriksa</text>
+    <text x="450" y="430" fill="#6F7178" font-size="10.5">pada layar perangkat</text>
+    <path d="M592,416 L624,416" stroke="#B23A48" stroke-width="1.8" marker-end="url(#ar)"/>
+
+    <rect x="630" y="388" width="150" height="56" rx="4" fill="#1A1013" stroke="#B23A48" stroke-width="1.6"/>
+    <text x="644" y="412" fill="#C9707A">PIN + DENYUT</text>
+    <text x="644" y="430" fill="#8E5F65" font-size="10.5">atau DARAH</text>
+    <path d="M786,416 L818,416" stroke="#8A8B8F" stroke-width="1.4" marker-end="url(#a)"/>
+
+    <rect x="824" y="388" width="128" height="56" rx="4" fill="#151513" stroke="#2A2926"/>
+    <text x="838" y="412" fill="#D8D2C8">Tx bertanda tangan</text>
+    <text x="838" y="430" fill="#6F7178" font-size="10.5">dikeluarkan sebagai QR</text>
+  </g>
+
+  <!-- PROVES / DOESN'T -->
+  <text x="48" y="492" font-size="10.5" letter-spacing="3" fill="#6F7178">HAL YANG DIBUKTIKAN</text>
+  <rect x="48" y="508" width="440" height="126" rx="5" fill="#101010" stroke="#2A2926"/>
+  <text x="66" y="534" font-size="12.5" fill="#D8D2C8">Orang yang hidup melakukannya dengan sengaja.</text>
+  <text x="66" y="560" font-size="11" fill="#8A8B8F">Laptop dapat dikuasai penyerang. Ia tidak dapat berdarah.</text>
+  <text x="66" y="580" font-size="11" fill="#8A8B8F">Tidak ada skrip yang memiliki aliran darah.</text>
+  <text x="66" y="600" font-size="11" fill="#8A8B8F">Tidak ada penandatanganan saat Anda tidur.</text>
+  <text x="66" y="622" font-size="11" fill="#8A8B8F">Satu tetes, satu tanda tangan. Tubuh membatasi frekuensinya.</text>
+
+  <rect x="512" y="508" width="440" height="126" rx="5" fill="#141010" stroke="#4A1219"/>
+  <text x="530" y="534" font-size="12.5" fill="#C9707A">PIN bertugas memastikan identitas.</text>
+  <text x="530" y="560" font-size="11" fill="#8A8B8F">Gerbang memastikan ada orang hidup yang hadir.</text>
+  <text x="530" y="580" font-size="11" fill="#8A8B8F">PIN memastikan siapa orangnya.</text>
+  <text x="530" y="606" font-size="11" fill="#D8D2C8">Darah membuktikan orang hidup sedang melakukannya.</text>
+  <text x="530" y="624" font-size="11" fill="#D8D2C8">PIN membuktikan orang itu adalah Anda. Keduanya wajib.</text>
+
+  <!-- HOW IT KNOWS -->
+  <text x="48" y="682" font-size="10.5" letter-spacing="3" fill="#6F7178">CARA PERANGKAT MENGETAHUINYA</text>
+  <rect x="48" y="698" width="440" height="92" rx="5" fill="#101010" stroke="#2A2926"/>
+  <text x="66" y="722" font-size="12" fill="#D8D2C8">Apakah ini darah?</text>
+  <text x="66" y="744" font-size="11" fill="#8A8B8F">Hemoglobin menyerap cahaya ungu 415 nm melalui cincin</text>
+  <text x="66" y="762" font-size="11" fill="#8A8B8F">besi di pusatnya. Saus, pewarna, jus bit, dan darah palsu</text>
+  <text x="66" y="778" font-size="11" fill="#8A8B8F">sama-sama merah, tetapi tidak menyerapnya. Sensor $16 mendeteksinya.</text>
+
+  <rect x="512" y="698" width="440" height="92" rx="5" fill="#141010" stroke="#4A1219"/>
+  <text x="530" y="722" font-size="12" fill="#C9707A">Apakah masih hidup?</text>
+  <text x="530" y="744" font-size="11" fill="#8A8B8F">Laser menyinari tetesan. Sel bergerak menyebarkannya menjadi</text>
+  <text x="530" y="762" font-size="11" fill="#8A8B8F">pola berbintik yang <tspan fill="#D8D2C8">berkilau</tspan>. Saat fibrin mengunci sel, pola itu <tspan fill="#D8D2C8">berhenti</tspan>.</text>
+  <text x="530" y="778" font-size="11" fill="#8A8B8F">Kamera mengamatinya selama sepuluh menit.</text>
+
+  <rect x="48" y="812" width="904" height="34" rx="5" fill="#1A1013" stroke="#B23A48" stroke-width="1.6"/>
+  <text x="70" y="834" font-size="12.5" fill="#D8D2C8">Darah simpan telah diberi antikoagulan sehingga <tspan fill="#C9707A">tidak membeku</tspan>. Darah tanpa antikoagulan <tspan fill="#C9707A">sudah membeku</tspan>.</text>
+</svg>
